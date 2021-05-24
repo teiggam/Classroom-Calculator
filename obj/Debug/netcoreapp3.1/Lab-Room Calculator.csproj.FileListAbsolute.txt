@@ -1,0 +1,13 @@
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\obj\Debug\netcoreapp3.1\Lab-Room Calculator.csprojAssemblyReference.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\obj\Debug\netcoreapp3.1\Lab-Room Calculator.AssemblyInfoInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\obj\Debug\netcoreapp3.1\Lab-Room Calculator.AssemblyInfo.cs
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\obj\Debug\netcoreapp3.1\Lab-Room Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\bin\Debug\netcoreapp3.1\Lab-Room Calculator.exe
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\bin\Debug\netcoreapp3.1\Lab-Room Calculator.deps.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\bin\Debug\netcoreapp3.1\Lab-Room Calculator.runtimeconfig.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\bin\Debug\netcoreapp3.1\Lab-Room Calculator.runtimeconfig.dev.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\bin\Debug\netcoreapp3.1\Lab-Room Calculator.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\bin\Debug\netcoreapp3.1\Lab-Room Calculator.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\obj\Debug\netcoreapp3.1\Lab-Room Calculator.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\obj\Debug\netcoreapp3.1\Lab-Room Calculator.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\Lab-Room Calculator\Lab-Room Calculator\obj\Debug\netcoreapp3.1\Lab-Room Calculator.genruntimeconfig.cache
