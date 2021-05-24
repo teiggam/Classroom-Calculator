@@ -13,7 +13,6 @@ namespace Lab_Room_Calculator
             Console.WriteLine("Please enter measurement in feet.");
 
             string again;
-            string stop;
             do
             {
 
